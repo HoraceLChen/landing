@@ -1,0 +1,12 @@
+.apply_btn{
+  color: rgb(255, 255, 255);
+  width:fit-content;
+  display: flex;
+  padding: 16px 25px;
+  border-radius: 25px;
+  background-color: rgb(255, 152, 87);
+}
+.apply_btn:hover{
+  background-color: #ff0062;
+  transition: linear .2s;
+}
